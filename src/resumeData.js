@@ -100,7 +100,7 @@ let resumeData = {
       "name":"Smoker's Express Website",
       "description":"Created a website for a local franchise company",
       "imgurl":"images/1.JPG",
-      "link":"https://ulm-acm.herokuapp.com/"
+      "link":"https://smokers-express.herokuapp.com"
     },
     
   ]
