@@ -71,7 +71,7 @@ let resumeData = {
       "skillname":"PHP"
     },
     {
-      "skillname":"Node.js"
+      "skillname":"Nodejs"
     },
     {
       "skillname":"JavaScript"
