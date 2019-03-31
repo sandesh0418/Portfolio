@@ -3,8 +3,8 @@
 let resumeData = {
   
   "name": "Sandesh Bhandari",
-  "role": "Full stack Developer",
-  "linkedinId":"Your LinkedIn Id",
+  "role": "Software Developer",
+  "linkedinId":"",
   
   "roleDescription": " I am an inquisitive, diligent and motivated technology enthusiast who constantly learns, improves and possesses a vast knowledge and experience with Java, HTML, CSS, JavaScript, MySQL and Node.js. And I love programming.",
   "socialLinks":[
@@ -100,7 +100,7 @@ let resumeData = {
       "name":"Smoker's Express Website",
       "description":"Created a website for a local franchise company",
       "imgurl":"images/1.JPG",
-      "link":"https://ulm-acm.herokuapp.com/"
+      "link":"https://smokers-express.herokuapp.com"
     },
     
   ]
