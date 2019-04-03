@@ -1,4 +1,13 @@
 
+@media only screen and (min-width: 1024px) {
+	
+header .banner-text h1 {
+      font: 50px/1.1em 'opensans-bold', sans-serif;
+      letter-spacing: -1px;
+      margin: 0 auto 12px auto;
+   }
+
+}
 
 
 /* screenwidth less than 1024px
@@ -14,6 +23,8 @@
    }
 
 }
+
+
 
 /* screenwidth less than 900px
 --------------------------------------------------------------------- */
