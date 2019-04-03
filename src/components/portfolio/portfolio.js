@@ -10,10 +10,10 @@ export default class Porfolio extends Component {
           <hr id ="project-divider"/>
           <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
           {
-            resumeData.portfolio && resumeData.portfolio.map((item)=>{
+            resumeData.portfolio && resumeData.portfolio.map((item, index)=>{
               return(
-                <div className="columns portfolio-item" style={{margin: "2%"}} >
-                <a href={item.link}>
+                <div className="columns portfolio-item" style={{margin: "2%"}} key={index} >
+                <a href={item.link} className="popup-modal">
                   <div className="item-wrap">
                     
                       <img src={item.imgurl} className="item-img" style={{height: "200px"}}/>
