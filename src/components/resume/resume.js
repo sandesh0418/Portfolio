@@ -20,8 +20,8 @@ export default  class Resume extends Component {
                           <h3>{item.UniversityName}</h3>
                           <p className="info">Major: {item.Major}<br />
                           Minor: {item.Minor} <br/>
-                          <em className="date">Graduating: {item.Graduating}</em></p>
-                          <p>Achievements: {item.Achievements}
+                          <em className="date">Graduating: {item.Graduating}</em><br /> <br />
+                          Achievements: {item.Achievements}
                           </p>
                        </div>
                     </div>
