@@ -104,7 +104,7 @@ let resumeData = {
     },
     {
       "name":"University of Louisiana Monroe Department Evaluation Application",
-      "description":"A web application where students are evaluated by each department to find our learning outcome",
+      "description":"A web application where students are evaluated by each department to find out the performance",
       "imgurl":"https://www.kappanonline.org/wp-content/uploads/2018/10/Evaluation-form-on-clipboard.jpg",
       "link":""
     },
