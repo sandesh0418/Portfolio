@@ -7,6 +7,7 @@ export default class Footer extends Component {
       <footer>
       <div className="row">
         <div className="twelve columns">
+        <span style={{color: "#9E9E9E", fontSize: "15px", fontWeight: "bold"}}>Let's get connected!</span>
           <ul className="social-links">
             {
               resumeData.socialLinks && resumeData.socialLinks.map((item, index)=>{
