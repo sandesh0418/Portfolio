@@ -32,7 +32,7 @@ export default class ContactUs extends Component {
       feedback: this.state.feedback
     }
 
-    console.log(obj)
+    window.location.reload();
 
   }
 

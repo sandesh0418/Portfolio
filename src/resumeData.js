@@ -49,7 +49,10 @@ let resumeData = {
     {
       "CompanyName":"Northwest Missouri State University",
       "Position":"Teaching Assistant and Proctor",
-      "LeavingDate": "January 2016 - May 2016"
+      "LeavingDate": "January 2016 - May 2016",
+      "description":["•	Created study materials to teach students after class.", "•	Helped professor by grading the assignments, proctoring exams and quizzes and students with their programming assignments.",
+       "•	Developed the ability to resolve student’s issues in a proactive manner as well as knowledgeable command of numerous information sources to select material appropriate to needs."]   
+      
       
     }
   ],

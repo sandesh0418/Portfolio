@@ -44,7 +44,15 @@ export default  class Resume extends Component {
                           <h3>{item.CompanyName}</h3>
                           <p className="info">
                           {item.Position}<br/>
-                          <em className="date">{item.LeavingDate}</em></p>
+                          <em className="date">{item.LeavingDate}</em><br/>
+                          <span>
+                            {item.description.map((single, index) =>(
+                              <p key ={index}>{single}</p>
+                            ))}
+
+                          </span>
+                          
+                          </p>
                           
                        </div>
 
