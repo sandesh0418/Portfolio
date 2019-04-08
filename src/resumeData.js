@@ -86,7 +86,7 @@ let resumeData = {
   "portfolio":[
     {
       "name":"ACM Website",
-      "description":"Website created for a campus organization",
+      "description":"A website application created for a campus organization",
       "imgurl":"images/acm.png",
       "link":"https://ulm-acm.herokuapp.com/"
     },
@@ -106,8 +106,22 @@ let resumeData = {
       "name":"University of Louisiana Monroe Department Evaluation Application",
       "description":"A web application where students are evaluated by each department to find out the performance",
       "imgurl":"https://www.kappanonline.org/wp-content/uploads/2018/10/Evaluation-form-on-clipboard.jpg",
-      "link":""
+      "link":"https://github.com/sandesh0418/Evaluation-App-Team-Lion-2019"
+      
     },
+    {
+      "name":"Class Registration Application",
+      "description":"A web application where students can register for classes",
+      "imgurl":"https://careers.uiowa.edu/sites/careers.uiowa.edu/files/styles/large/public/wysiwyg_uploads/register%20%281%29.jpg?itok=VIxLbV8e",
+      "link":"https://github.com/sandesh0418/Student-Registration-System"
+    },
+    {
+      "name":"To-do List Project",
+      "description":"A web application where user can add, view, edit and delete todos.",
+      "imgurl":"https://chosencalled.files.wordpress.com/2015/07/sharp-res-28.jpg",
+      "link":"https://github.com/sandesh0418/TodoList"
+    },
+
 
     
   ]

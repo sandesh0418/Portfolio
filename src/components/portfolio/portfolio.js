@@ -13,7 +13,9 @@ export default class Porfolio extends Component {
             resumeData.portfolio && resumeData.portfolio.map((item, index)=>{
               return(
                 <div className="columns portfolio-item" style={{margin: "2%"}} key={index} >
-                <a href={item.link} className="popup-modal">
+                
+
+                <a href= {item.link} >
                   <div className="item-wrap">
                     
                       <img src={item.imgurl} className="item-img" style={{height: "200px"}}/>
@@ -23,10 +25,11 @@ export default class Porfolio extends Component {
                           <p>{item.description}</p>
                         </div>
                       </div>
-                    
-                  </div>
+                      </div> 
+                  
                   </a>
-                </div>
+                  </div>
+                
               )
             })
           }
